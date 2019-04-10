@@ -14,7 +14,7 @@
     <img src="images/whiscash.png">
 
     <h1>
-        Christmas Time
+        EPIC
     </h1>
     <h2>
         Below are some epic things I made.
