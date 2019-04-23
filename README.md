@@ -7,7 +7,7 @@
 </head>
 <style>
     body {
-        background-image: url("images/christmas.png"); background-repeat: no-repeat;
+        background-image: url("images/pokemon.jpg"); background-repeat: no-repeat;
     }
 </style>
 <body>
