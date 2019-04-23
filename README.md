@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
 
 <head>
@@ -21,6 +21,6 @@
     </h2>
 
 </body>
-<a href="https://scratch.mit.edu/projects/246340804/#play er">Scratch Game</a> <a href="https://hnation237.github.io/Ice-Cream/">Ice Cream teir list</a> <a href="https://repl.it/@HenryNation/JohnWickIsInGraveDanger">Choose your own adventure story.</a> <a href="files/artifact.pdf">Artifact</a> <a href="https://repl.it/@HenryNation/JohnWickIsInGraveDanger">Choose your own adventure story.</a> <a href="files/written_portion.pdf">Written Portion</a>
+<a href="https://scratch.mit.edu/projects/246340804/#play er">Scratch Game</a> <a href="https://hnation237.github.io/Ice-Cream/">Ice Cream teir list</a> <a href="https://repl.it/@HenryNation/JohnWickIsInGraveDanger">Choose your own adventure story.</a> <a href="files/artifact.pdf">Artifact</a> </a> <a href="files/written_portion.pdf">Written Portion</a>
 
 </html>
