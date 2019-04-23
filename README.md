@@ -14,10 +14,10 @@
     <img src="images/whiscash.png">
 
     <h1>
-        EPIC
+        Help
     </h1>
     <h2>
-        Below are some epic things I made.
+        This is a cry for help
     </h2>
 
 </body>
