@@ -4,7 +4,6 @@
 <head>
     <meta charset="utf-8">
     <title>Epic Games Official Website</title>
-</head>
 <style>
     body {
         background-image: url("images/pokemon.jpg"); background-repeat: no-repeat;
@@ -36,7 +35,6 @@ li a:hover:not(.active) {
 .active {
   background-color: #4CAF50;
 }
-</style>
 <body>
 
 <ul>
