@@ -37,7 +37,6 @@ li a:hover:not(.active) {
   background-color: #4CAF50;
 }
 </style>
-</head>
 <body>
 
 <ul>
@@ -47,7 +46,6 @@ li a:hover:not(.active) {
   <li><a href="#about">About</a></li>
 </ul>
 
-</style>
 <body>
     <img src="images/whiscash.png">
 
