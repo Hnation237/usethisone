@@ -37,12 +37,13 @@ li a:hover:not(.active) {
 }
 <body>
 
-<ul>
-  <li><a class="active" href="">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-</ul>
+ <ul>
+    <li><a class="active" href="henry.html">Henry Home</a></li>
+    <li><a href="Garfield.html">Garfield</a></li>
+    <li><a href="fun.html">Larry the Cable Guy</a></li>
+    <li><a href="monday_fun.html">Monday Fun</a></li>
+    <li><a href="welcome.html">Welcome</a></li>
+ </ul>
 
 <body>
     <img src="images/whiscash.png">
